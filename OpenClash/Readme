@@ -25,3 +25,14 @@ https://sub.qichiyu.com/sub  VPS 域名反代 地址
 http://192.168.2.1:25500/sub  局域网其他设备地址
 
 来自七尺宇的教程 https://qichiyu.blogspot.com/2024/07/openclash.html
+
+
+开发者选项，DNSmasq去广告代码: Clash-Dev.txt
+
+https://raw.githubusercontent.com/bin32223/clash-bin-zy/refs/heads/main/OpenClash/Clash-Dev.txt
+
+订阅地址转换Docker指令（20241123更新：支持HY2节点）：  
+docker run --name=SubConverter -d --restart=always -p 25500:25500 asdlokj1qpi23/subconverter:latest
+
+来自liandu2024的教程：OpenClash 完美配置
+具体配置请参看油管视频：https://www.youtube.com/watch?v=S2l_0g4EOHk&t=2s
