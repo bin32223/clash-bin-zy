@@ -1,5 +1,9 @@
+# 域名关键字匹配
+DOMAIN-KEYWORD,meta
+
 DOMAIN-SUFFIX,vondy.com
 DOMAIN-SUFFIX,mintlify.com
 DOMAIN-SUFFIX,cursor.so
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,meta.com
+
