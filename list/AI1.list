@@ -5,8 +5,6 @@ DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaipublic
 DOMAIN-KEYWORD,perplexity
-
-
 # 域名后缀匹配
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
