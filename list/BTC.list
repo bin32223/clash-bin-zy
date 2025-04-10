@@ -1,5 +1,7 @@
 # 域名关键字匹配
 # 币
+DOMAIN-KEYWORD,btc
+DOMAIN-KEYWORD,bitcoin
 DOMAIN-KEYWORD,okx
 DOMAIN-KEYWORD,edge
 DOMAIN-KEYWORD,htx
@@ -8,6 +10,7 @@ DOMAIN-KEYWORD,bytick
 DOMAIN-KEYWORD,bybit
 # 域名后缀匹配
 # 币
+DOMAIN-SUFFIX,bitcoin.org
 DOMAIN-SUFFIX,myetherwallet.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,oklink.com
